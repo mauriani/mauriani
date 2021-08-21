@@ -1,5 +1,4 @@
 ## Eii, Eu sou Mauriani Maciel
-- 👀 Estou interessada em aprender novas tecnologias e ter experiências novas 💜
 - 🌱 Estou estudando, react, javascript, nodejs. 
 - 💞️ Trabalho no desenvolvimento de app de gestão escolar (usando React-Native).
 
