@@ -1,5 +1,5 @@
 ## Eii, Eu sou Mauriani Maciel
-- 🌱 Estou estudando, react, javascript, nodejs. 
+- 🌱 Estou estudando, reactjs, react-native e nodejs. 
 - 💞️ Trabalho no desenvolvimento de app de gestão escolar (usando React-Native).
 
 <div>
